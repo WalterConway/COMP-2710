@@ -1,0 +1,12 @@
+A*B**
+B*C**
+CDF**
+D*EC*
+E*HFD
+FEG*C
+GH**F
+HI*GE
+IJ*H*
+J**IK
+K*JL*
+LK***
